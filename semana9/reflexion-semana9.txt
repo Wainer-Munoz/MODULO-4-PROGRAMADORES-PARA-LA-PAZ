@@ -1,0 +1,6 @@
+Considero que es importante que las plataformas tecnológicas utilizadas por las comunidades funcionen de manera estable y segura porque permiten mantener una comunicación constante y confiable entre los usuarios. Cuando un servidor falla, puede afectar la participación, el acceso a la información y la confianza de la comunidad. 
+La estabilidad ayuda a que los servicios estén disponibles cuando realmente se necesitan y evita interrupciones que puedan afectar los procesos. 
+
+Además, la seguridad permite proteger los datos de los usuarios y prevenir accesos no autorizados. 
+
+Para reducir riesgos es importante mantener los sistemas actualizados, controlar los permisos y realizar monitoreo constante. En conjunto, un servidor seguro y estable fortalece la confianza de las personas y facilita el uso responsable de la tecnología dentro de la comunidad.

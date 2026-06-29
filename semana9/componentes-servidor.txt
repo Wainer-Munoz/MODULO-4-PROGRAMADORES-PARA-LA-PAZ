@@ -1,0 +1,19 @@
+Sistema operativo
+Es el software base que administra los recursos del servidor y permite ejecutar las aplicaciones.
+También controla procesos, archivos, memoria y la comunicación con el hardware.
+
+Node.js
+Es el entorno que permite ejecutar código JavaScript fuera del navegador.
+Se utiliza para crear y ejecutar aplicaciones del lado del servidor.
+
+Aplicación server.js
+Es el archivo donde se encuentra el código del servidor creado con Express.
+Define las rutas, respuestas y funciones que puede realizar la aplicación.
+
+Puerto
+Es el punto de comunicación donde el servidor recibe solicitudes.
+En este caso, el servidor utiliza el puerto 3000 para atender las peticiones.
+
+Logs
+Son registros de eventos o mensajes generados por la aplicación.
+Ayudan a revisar el funcionamiento del servidor y detectar errores.
