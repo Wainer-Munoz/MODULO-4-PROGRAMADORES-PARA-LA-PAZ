@@ -1,0 +1,5 @@
+Proteger las contraseñas utilizando claves seguras, evitando compartirlas y cambiándolas periódicamente.
+
+No compartir credenciales, tokens o información de acceso con otras personas para evitar accesos no autorizados.
+
+Mantener el software y los sistemas actualizados para corregir vulnerabilidades y mejorar la seguridad.

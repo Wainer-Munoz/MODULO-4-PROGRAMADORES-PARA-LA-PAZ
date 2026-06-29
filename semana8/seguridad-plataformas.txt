@@ -1,0 +1,9 @@
+No exponer datos personales de los usuarios y proteger la información privada almacenada en la plataforma.
+
+Proteger las credenciales utilizando contraseñas seguras y evitando compartir datos de acceso.
+
+Usar conexiones seguras mediante protocolos de protección que reduzcan el riesgo de interceptación de información.
+
+Registrar los accesos y actividades importantes dentro del sistema para mantener trazabilidad y detectar posibles problemas.
+
+Limitar el acceso a información sensible asignando permisos únicamente a los usuarios que realmente lo necesitan.

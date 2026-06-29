@@ -1,0 +1,5 @@
+uname -a
+Este comando muestra información del sistema operativo, como el nombre del sistema, la versión del kernel, la arquitectura del equipo y otros datos relacionados con el servidor.
+
+whoami
+Este comando muestra el usuario que está actualmente conectado y ejecutando las acciones en la terminal. Es útil conocer esta información cuando se administra un servidor porque permite identificar el entorno donde está funcionando la aplicación, verificar la versión del sistema, revisar compatibilidades y saber qué usuario tiene acceso al equipo. Esto ayuda a realizar configuraciones, solucionar problemas y mantener la seguridad del servidor.
